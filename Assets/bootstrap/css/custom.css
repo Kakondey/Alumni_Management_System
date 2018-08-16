@@ -1,0 +1,77 @@
+.wrapper{
+  background-color: #0080ff;
+}
+
+.navbar .navbar-inner{
+  background-color: #0040ff;
+
+}
+
+.navbar .navbar-inner .brand{
+  color: white;
+
+}
+.navbar .navbar-inner .dropdown-toggle{
+  color: white;
+
+}
+
+.navbar .navbar-inner a{
+  color: #0040ff;
+
+}
+
+.navbar .navbar-inner .User{
+  color: white;
+
+}
+
+.container .span9{
+	height: 19000px;
+}
+
+textarea{
+	resize: none;
+}
+/*home page*/
+.btnadmin{
+      background-color: white;
+      border-radius: 5px;
+      border-color: #317ee2;
+      color: #317ee2;
+      padding: 15px 32px;
+      text-align: center;
+      text-shadow: 3px;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      cursor: pointer;
+    }
+    .btnadmin:hover{
+      background-color: #317ee2 ;
+      border-color: white;
+      color: white;
+    }
+    .btnuser{
+      background-color: white;
+      border-radius: 5px;
+      border-color: #317ee2;
+      color: #317ee2;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 3px;
+      cursor: pointer;
+    }
+    .btnuser:hover{
+      background-color: #317ee2 ;
+      border-color: white;
+      color: white;
+    }
+    .letters{
+      color: white;
+    }
+
